@@ -24,7 +24,7 @@ This is a simple RESTful Todo List application developed with Java and Spring Bo
 1. Open a terminal.
 2. Run the following command to clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-application.git
+   git clone https://github.com/ridera7/todo-list-application.git
    cd todo-list-application
    ```
 
@@ -60,7 +60,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 ### **Step 1: Run the Application**
 In IntelliJ IDEA:
-1. Navigate to the `TodoListApplication` class in the `src/main/java` directory.
+1. Navigate to the `TodoListGptApplication` class in the `src/main/java` directory.
 2. Right-click on the class and select **Run 'TodoListApplication'**.
 
 Alternatively, use Maven to run the application:
@@ -89,5 +89,10 @@ The project maintains **92% test coverage**, ensuring high-quality code.
 
 ---
 
-## **License**
-This project is licensed under the MIT License.
+Short feedback:
+1. Was it easy to complete the task using AI?
+   - The task was relatively easy except for some configuration issues.
+2. How long did task take you to complete?
+   - About 3 hours.
+3. Was the code ready to run after generation? What did you have to change to make it usable?
+   - The main code that provided the chat was fully working.
